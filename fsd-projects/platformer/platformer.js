@@ -52,7 +52,9 @@ createPlatform(800,400,100,15);
 
     
     // TODO 4 - Create Cannons
-
+createCannon("top",1000,1000);
+createCannon("bottom",700,1000);
+createCannon("right",300,1000);
 
     
     
